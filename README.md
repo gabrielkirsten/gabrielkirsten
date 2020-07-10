@@ -8,10 +8,7 @@
 
 ### Hi there 👋
 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
-
-
-- 🔭 I’m currently working at @movilepay (fintech) building @ifood restaurant's bank
+- 🔭 I'm currently working at @movilepay (fintech) building the digital bank of @ifood restaurants
 - 🌱 I’m currently learning Kafka and Kotlin
 
 Check this project: https://github.com/movilepay/kt-mapper
