@@ -9,4 +9,4 @@
 - I'm currently working at @movilepay (fintech) building the digital bank of @ifood restaurants
 - I’m currently learning Kafka and Kotlin
 
-Check this project: https://github.com/movilepay/kt-mapper
+Check this project: https://movilepay.github.io/kt-mapper/
