@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/gabrielkirsten)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:gabrielkirsten1@gmail.com)
 
-- I'm currently working at @movilepay (fintech) building the digital bank of @ifood restaurants
-- I’m currently learning Kafka and Kotlin
+- Currently working at @movilepay (fintech) building the digital bank of @ifood restaurants
+- Currently learning Kafka
 
 Check this project: https://movilepay.github.io/kt-mapper/
