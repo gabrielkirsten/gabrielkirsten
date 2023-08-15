@@ -6,5 +6,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/gabrielkirsten)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:gabrielkirsten1@gmail.com)
 
-- Currently working at @ifood building the restaurants bank. 
-- Currently learning studing distributed systems.
+- Currently working at @nubank creating a product that customers can fanatically love 💜. 
+- Currently studying Clojure and Datomic.
