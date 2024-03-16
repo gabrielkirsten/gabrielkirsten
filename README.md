@@ -8,3 +8,4 @@
 
 - Currently working at @nubank creating a product that customers can fanatically love 💜. 
 - Currently studying Clojure and Datomic.
+
